@@ -1,0 +1,1 @@
+{"name":"m4-github-probe","private":true,"type":"module","scripts":{"test":"node check.mjs && sleep 300"}}
